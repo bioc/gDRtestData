@@ -1,4 +1,4 @@
-## gDRtestData 1.5.1 - 2024-11-05
+## gDRtestData 1.4.1 - 2024-11-05
 * synchronize Bioconductor and GitHub versioning
 
 ## gDRtestData 1.3.3 - 2024-10-24
